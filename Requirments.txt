@@ -1,3 +1,4 @@
-1 Streamlit
-2 PyPDF2
-3 groq
+streamlit
+python-dotenv
+groq
+PyPDF2
